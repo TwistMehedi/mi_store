@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
 import PreNavbar from "./components/PreNavbar/PreNavbar";
 import Slider from "./components/Slider/Slider";
-import { banner } from "./data.json";
+import { banner } from "./data/data.json";
 
 function App() {
   return (
