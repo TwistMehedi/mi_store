@@ -1,0 +1,26 @@
+ .nav{
+    background-color: rgb(233, 230, 230);
+    display: flex;
+    justify-content: center;
+ }
+ .nav>div{
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .link{
+    text-decoration: none;
+    color: #000;
+    margin: 0 15px;
+    font-size: 17px;
+ }
+
+  
+ .search>input{
+ border: none;
+ padding: 5px;
+ font-size: 15px;
+ border-radius: 5px;
+ }
+ 
